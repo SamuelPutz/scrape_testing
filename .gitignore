@@ -1,0 +1,9 @@
+Gemfile.lock
+.env
+.xml
+.ruby-version
+.byebug_history
+# Ignore RubyMine's files
+/.idea
+# Project exclude paths
+/vendor/bundle/ruby/2.7.0/cache/
